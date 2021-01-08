@@ -12,5 +12,4 @@ This backend web application consists of three different microservices:
 3. Flask == 1.1.2
 4. MySQL == 5.7.32
 5. Postman == 7.36.1 
-
-
+6. Docker 
