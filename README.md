@@ -45,4 +45,15 @@ There are 6 APIs made in this app:
 
 ### Likes app 
 
-This app has one API called - create likes. This generates a random user id and random product id and increases the likes count corresponding to this user and product. This API communicates with the user and product microservice via RabbitMQ and the 
+This app has one API called - create likes. This generates a random user id and random product id and increases the likes count corresponding to this user and product. This API communicates with the user and product microservice via RabbitMQ.
+
+## Screenshots
+
+1. ![Create user](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/create%20user.PNG)
+2. ![Create product](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/create%20product.PNG)
+3. ![Create likes](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/create%20like.PNG)
+4. ![Increased likes count on product](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/increased%20likes%20in%20product%20id.PNG)
+5. ![Increased likes count on user](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/increased%20likes%20in%20user.PNG)
+
+
+
