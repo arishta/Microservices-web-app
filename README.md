@@ -49,20 +49,20 @@ This app has one API called - create likes. This generates a random user id and 
 
 ## Screenshots
 
-### Create user API
+#### Create user API
 
 ![Create user](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/create%20user.PNG)
 
-### Create product API
+#### Create product API
 ![Create product](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/create%20product.PNG)
 
-### Create likes API
+#### Create likes API
 ![Create likes](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/create%20like.PNG)
 
-### Increased likes count on product id 9
+#### Increased likes count on product id 9
 ![Increased likes count on product](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/increased%20likes%20in%20product%20id.PNG)
 
-### Increased likes count on user id 6 
+#### Increased likes count on user id 6 
 ![Increased likes count on user](https://github.com/arishta/Microservices-web-app/blob/main/screenshots/increased%20likes%20in%20user.PNG)
 
 
